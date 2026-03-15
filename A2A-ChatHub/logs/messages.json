@@ -1,0 +1,26 @@
+[
+  {
+    "sender": "User",
+    "receiver": "Alice",
+    "timestamp": "2026-03-15T05:05:23.103128+00:00",
+    "content": "Hello Alice, please discuss the A2A project plan with Bob."
+  },
+  {
+    "sender": "Alice",
+    "receiver": "Bob",
+    "timestamp": "2026-03-15T05:05:23.145220+00:00",
+    "content": "Mock live reply: The user asked the following question.\nQuestion: Hello Alice, please discuss the A2A project plan wi"
+  },
+  {
+    "sender": "Bob",
+    "receiver": "Alice",
+    "timestamp": "2026-03-15T05:05:23.148110+00:00",
+    "content": "Mock live reply: Alice asked you to help with the following task.\nTask: Mock live reply: The user asked the following"
+  },
+  {
+    "sender": "Alice",
+    "receiver": "User",
+    "timestamp": "2026-03-15T05:05:23.175213+00:00",
+    "content": "Mock live reply: Original user question: Hello Alice, please discuss the A2A project plan with Bob.\n\nBob's draft answ"
+  }
+]
